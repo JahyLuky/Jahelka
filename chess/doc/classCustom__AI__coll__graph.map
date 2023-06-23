@@ -1,5 +1,0 @@
-<map id="Custom_AI" name="Custom_AI">
-<area shape="rect" id="node1" title="Represents Custom AI." alt="" coords="5,200,97,227"/>
-<area shape="rect" id="node2" href="$classPlayer.html" title="Abstract class for player." alt="" coords="20,124,83,151"/>
-<area shape="rect" id="node3" href="$structPosition.html" title=" " alt="" coords="14,5,89,32"/>
-</map>

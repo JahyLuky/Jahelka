@@ -1,4 +1,0 @@
-<map id="HumanPlayer" name="HumanPlayer">
-<area shape="rect" id="node1" title="Represents human player." alt="" coords="5,80,116,107"/>
-<area shape="rect" id="node2" href="$classPlayer.html" title="Abstract class for player." alt="" coords="29,5,92,32"/>
-</map>

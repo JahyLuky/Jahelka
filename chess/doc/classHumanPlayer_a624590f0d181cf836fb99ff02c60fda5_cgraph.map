@@ -1,4 +1,0 @@
-<map id="HumanPlayer::get_promotion" name="HumanPlayer::get_promotion">
-<area shape="rect" id="node1" title="Checks player&#39;s pawn promotion." alt="" coords="5,13,219,39"/>
-<area shape="rect" id="node2" href="$classInput__handler.html#ae6cc6114be79e000f8a6f7156198e0f4" title="Converts char to int." alt="" coords="267,5,461,47"/>
-</map>

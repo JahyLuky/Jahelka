@@ -1,8 +1,0 @@
-<map id="FEN::get_FEN" name="FEN::get_FEN">
-<area shape="rect" id="node1" title="Gets FEN notation." alt="" coords="5,42,116,69"/>
-<area shape="rect" id="node2" href="$classInput__handler.html#a7987d8ac8708c84676dd60936341bd8c" title="Converts int to char." alt="" coords="164,5,300,47"/>
-<area shape="rect" id="node3" href="$classFEN.html#aa59029cbcd63802d3dddd5523f3702e9" title="Save piece." alt="" coords="164,71,300,98"/>
-<area shape="rect" id="node4" href="$classFEN.html#a0bfe254b9c0c3e163aecf70582e47761" title="Gets types of piece." alt="" coords="348,71,528,98"/>
-<area shape="rect" id="node5" href="$classPiece.html#a5a18c08757a0eccdc6fd0686d4db6743" title=" " alt="" coords="577,46,703,73"/>
-<area shape="rect" id="node6" href="$classPiece.html#af5e0b1b9ea85bcb3e61bb180005aa28a" title=" " alt="" coords="576,97,704,123"/>
-</map>

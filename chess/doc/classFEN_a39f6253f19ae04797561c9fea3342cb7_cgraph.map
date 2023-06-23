@@ -1,8 +1,0 @@
-<map id="FEN::read_FEN" name="FEN::read_FEN">
-<area shape="rect" id="node1" title="Reads FEN notation." alt="" coords="5,93,124,120"/>
-<area shape="rect" id="node2" href="$classInput__handler.html#aeee21ed8a9cdd37b4f39c530e7d2ca15" title="Checks if char is &lt;0, 8&gt;" alt="" coords="178,5,361,32"/>
-<area shape="rect" id="node3" href="$classInput__handler.html#ae6cc6114be79e000f8a6f7156198e0f4" title="Converts char to int." alt="" coords="172,57,367,98"/>
-<area shape="rect" id="node4" href="$classFEN.html#ad13a4a36c9bebfaf47e275bfe1ee9084" title="Corrects FEN pieces." alt="" coords="178,123,361,149"/>
-<area shape="rect" id="node5" href="$classFEN.html#a4ce3e20e91398d07dc96524af182e034" title="Fills chess pieces into board." alt="" coords="209,173,330,200"/>
-<area shape="rect" id="node6" href="$classFEN.html#addf59b1321695a3fe9c8588df468954a" title="Place pieces on chess board." alt="" coords="415,166,571,207"/>
-</map>

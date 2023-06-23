@@ -1,5 +1,0 @@
-<map id="Input_handler::extract_input" name="Input_handler::extract_input">
-<area shape="rect" id="node1" title="Extract input." alt="" coords="5,27,171,69"/>
-<area shape="rect" id="node2" href="$classInput__handler.html#aeee21ed8a9cdd37b4f39c530e7d2ca15" title="Checks if char is &lt;0, 8&gt;" alt="" coords="225,5,407,32"/>
-<area shape="rect" id="node3" href="$classInput__handler.html#ae6cc6114be79e000f8a6f7156198e0f4" title="Converts char to int." alt="" coords="219,57,413,98"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Move::promotion" name="Move::promotion">
-<area shape="rect" id="node1" title="Handles pawn promotion." alt="" coords="5,31,139,57"/>
-<area shape="rect" id="node2" href="$classMove.html#a5a18864c15112c49e5a93dbee3f83d1c" title="Moves piece from start to end." alt="" coords="197,5,342,32"/>
-<area shape="rect" id="node3" href="$classPlayer.html#a620bf4cb1907eafdbcd9252a750ffa8f" title="Update piece&#39;s position on chess board." alt="" coords="187,56,352,83"/>
-</map>

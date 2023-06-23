@@ -1,0 +1,4 @@
+<map id="Move::undo_move" name="Move::undo_move">
+<area shape="rect" id="node1" title="Undo move." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$classMove.html#a5a18864c15112c49e5a93dbee3f83d1c" title="Moves piece from start to end." alt="" coords="196,5,341,32"/>
+</map>

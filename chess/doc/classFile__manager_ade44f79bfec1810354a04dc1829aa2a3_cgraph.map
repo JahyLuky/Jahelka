@@ -1,0 +1,9 @@
+<map id="File_manager::open_file" name="File_manager::open_file">
+<area shape="rect" id="node1" title="Opens file." alt="" coords="5,93,183,120"/>
+<area shape="rect" id="node2" href="$classFEN.html#a39f6253f19ae04797561c9fea3342cb7" title="Reads FEN notation." alt="" coords="231,93,349,120"/>
+<area shape="rect" id="node3" href="$classInput__handler.html#aeee21ed8a9cdd37b4f39c530e7d2ca15" title="Checks if char is &lt;0, 8&gt;" alt="" coords="403,5,586,32"/>
+<area shape="rect" id="node4" href="$classInput__handler.html#ae6cc6114be79e000f8a6f7156198e0f4" title="Converts char to int." alt="" coords="397,57,592,98"/>
+<area shape="rect" id="node5" href="$classFEN.html#ad13a4a36c9bebfaf47e275bfe1ee9084" title="Corrects FEN pieces." alt="" coords="403,123,586,149"/>
+<area shape="rect" id="node6" href="$classFEN.html#a4ce3e20e91398d07dc96524af182e034" title="Fills chess pieces into board." alt="" coords="434,173,555,200"/>
+<area shape="rect" id="node7" href="$classFEN.html#addf59b1321695a3fe9c8588df468954a" title="Place pieces on chess board." alt="" coords="640,166,796,207"/>
+</map>

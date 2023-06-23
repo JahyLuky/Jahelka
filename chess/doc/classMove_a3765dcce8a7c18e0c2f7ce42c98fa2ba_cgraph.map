@@ -1,0 +1,8 @@
+<map id="Move::make_move" name="Move::make_move">
+<area shape="rect" id="node1" title="Makes move with piece." alt="" coords="5,107,152,133"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a42e54e616455af5d9d4b6dea514ba7a0" title="Checks player&#39;s pawn promotion." alt="" coords="201,5,367,32"/>
+<area shape="rect" id="node3" href="$classMove.html#a5472b83ec6bcde0fd8c16c4508896ccd" title="Handles casting." alt="" coords="200,56,368,83"/>
+<area shape="rect" id="node4" href="$classMove.html#a5a18864c15112c49e5a93dbee3f83d1c" title="Moves piece from start to end." alt="" coords="426,107,571,133"/>
+<area shape="rect" id="node5" href="$classMove.html#a9a242db5d52827dd11f81a6aa46e339e" title="Handles pawn promotion." alt="" coords="217,157,351,184"/>
+<area shape="rect" id="node6" href="$classPlayer.html#a620bf4cb1907eafdbcd9252a750ffa8f" title="Update piece&#39;s position on chess board." alt="" coords="416,183,581,209"/>
+</map>

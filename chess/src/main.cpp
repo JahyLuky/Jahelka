@@ -11,7 +11,8 @@ int main() {
     try {
         menu.run();
     }
-    catch (std::exception &e) {
+
+	catch (std::exception &e) {
         std::cout << e.what() << std::endl;
     }
 

@@ -1,0 +1,24 @@
+<map id="Move::move_piece" name="Move::move_piece">
+<area shape="rect" id="node1" title="Moves piece from start to end." alt="" coords="1803,138,1948,165"/>
+<area shape="rect" id="node2" href="$classMove.html#a5472b83ec6bcde0fd8c16c4508896ccd" title="Handles casting." alt="" coords="1587,62,1755,89"/>
+<area shape="rect" id="node3" href="$classMove.html#a3765dcce8a7c18e0c2f7ce42c98fa2ba" title="Makes move with piece." alt="" coords="1392,118,1539,145"/>
+<area shape="rect" id="node21" href="$classMove.html#a9a242db5d52827dd11f81a6aa46e339e" title="Handles pawn promotion." alt="" coords="1604,113,1737,139"/>
+<area shape="rect" id="node22" href="$classMove.html#afbed08d3294e3c7913dd27c3d6afd283" title="Undo move." alt="" coords="1394,193,1537,219"/>
+<area shape="rect" id="node4" href="$classRules.html#a4ec21c1bd51c73135ed26eafa0da58d3" title="Checks if king is in checkmate." alt="" coords="1167,182,1306,209"/>
+<area shape="rect" id="node5" href="$classApplication.html#a162a3f466352b474a10516c7f0b0ae9a" title=" " alt="" coords="907,182,1081,209"/>
+<area shape="rect" id="node15" href="$classMinimax.html#ad75b36d8718f9ad30bb921a483413b1f" title="Minimax algorithm." alt="" coords="1129,233,1344,259"/>
+<area shape="rect" id="node17" href="$classCustom__AI.html#a6d5240fd3f5919086dc0bb74aa02329a" title="Counts all moves for all pieces." alt="" coords="1159,51,1314,92"/>
+<area shape="rect" id="node19" href="$classCustom__AI2.html#a7a3ac6cf87a8dd5c0ebabd4281bb6615" title="Counts all moves for all pieces." alt="" coords="1155,116,1318,157"/>
+<area shape="rect" id="node6" href="$classApplication.html#a50559888cd4196c7cda01e0a432d609f" title="Changes turn of game." alt="" coords="708,175,859,216"/>
+<area shape="rect" id="node7" href="$classApplication.html#aa0cd4150071d630bd7b1f067878f00cd" title="Starts and handles game." alt="" coords="520,182,660,209"/>
+<area shape="rect" id="node8" href="$classMenu.html#ac90e451d94eb82769cf58eea174667be" title="Load game." alt="" coords="321,106,460,133"/>
+<area shape="rect" id="node11" href="$classMenu.html#a196d4b882280b81c81409beb8a1a6780" title="Starts game with AI." alt="" coords="311,157,471,183"/>
+<area shape="rect" id="node12" href="$classMenu.html#a4e25526f20b92932d0adf9a489356dac" title="Starts game with 2 human players." alt="" coords="321,207,461,234"/>
+<area shape="rect" id="node13" href="$classTutorial.html#ad4a5c074281c25791323e984dba390f2" title="Start tutorial." alt="" coords="309,258,472,285"/>
+<area shape="rect" id="node9" href="$classMenu.html#a35656cd130e24d69383a5c9d0a73a38c" title="Runs menu." alt="" coords="141,157,228,183"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,157,60,183"/>
+<area shape="rect" id="node14" href="$classTutorial.html#a42acfd364d5d606318eda4b733c973da" title="Runs tutorial." alt="" coords="108,258,261,285"/>
+<area shape="rect" id="node16" href="$classMinimax.html#af45948f65043449d3c4cfb6c4bbf8251" title="Gets player&#39;s move." alt="" coords="918,233,1070,259"/>
+<area shape="rect" id="node18" href="$classCustom__AI.html#a29f2c8e38303a9c721307e87d3f385ff" title="Gets player&#39;s move." alt="" coords="911,58,1077,85"/>
+<area shape="rect" id="node20" href="$classCustom__AI2.html#ac5acf2591290121ce91b25c97a6ff96c" title="Gets player&#39;s move." alt="" coords="907,123,1081,150"/>
+</map>

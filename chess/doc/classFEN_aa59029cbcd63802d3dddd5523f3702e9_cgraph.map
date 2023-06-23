@@ -1,0 +1,6 @@
+<map id="FEN::save_pieces" name="FEN::save_pieces">
+<area shape="rect" id="node1" title="Save piece." alt="" coords="5,31,141,57"/>
+<area shape="rect" id="node2" href="$classFEN.html#a0bfe254b9c0c3e163aecf70582e47761" title="Gets types of piece." alt="" coords="189,31,369,57"/>
+<area shape="rect" id="node3" href="$classPiece.html#a5a18c08757a0eccdc6fd0686d4db6743" title=" " alt="" coords="419,5,544,32"/>
+<area shape="rect" id="node4" href="$classPiece.html#af5e0b1b9ea85bcb3e61bb180005aa28a" title=" " alt="" coords="417,56,545,83"/>
+</map>

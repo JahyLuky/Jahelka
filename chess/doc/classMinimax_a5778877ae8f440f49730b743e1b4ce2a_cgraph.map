@@ -1,0 +1,4 @@
+<map id="Minimax::evaluate_board" name="Minimax::evaluate_board">
+<area shape="rect" id="node1" title="Evaluates chess board." alt="" coords="5,13,193,39"/>
+<area shape="rect" id="node2" href="$classMinimax.html#a9af2102658fb3a93929462c13c7bfd90" title="Gets piece&#39;s value." alt="" coords="241,5,392,47"/>
+</map>

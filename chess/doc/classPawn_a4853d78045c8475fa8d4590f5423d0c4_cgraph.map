@@ -1,0 +1,6 @@
+<map id="Pawn::possible_moves" name="Pawn::possible_moves">
+<area shape="rect" id="node1" title="Find all possible move based on piece type." alt="" coords="5,56,175,83"/>
+<area shape="rect" id="node2" href="$classPiece.html#a19446ccc1dce47aa1c77733242657f25" title="Adds move to possible moves." alt="" coords="229,5,362,32"/>
+<area shape="rect" id="node3" href="$classPiece.html#a5a18c08757a0eccdc6fd0686d4db6743" title=" " alt="" coords="233,56,358,83"/>
+<area shape="rect" id="node4" href="$classPiece.html#a6dcc7df628eb1f8317caaa4970835517" title=" " alt="" coords="223,107,368,133"/>
+</map>

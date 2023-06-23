@@ -1,0 +1,4 @@
+<map id="Custom_AI::possible_pieces_and_moves" name="Custom_AI::possible_pieces_and_moves">
+<area shape="rect" id="node1" title="Counts all moves for all pieces." alt="" coords="219,5,373,47"/>
+<area shape="rect" id="node2" href="$classCustom__AI.html#a29f2c8e38303a9c721307e87d3f385ff" title="Gets player&#39;s move." alt="" coords="5,13,171,39"/>
+</map>

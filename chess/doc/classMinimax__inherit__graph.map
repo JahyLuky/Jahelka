@@ -1,0 +1,4 @@
+<map id="Minimax" name="Minimax">
+<area shape="rect" id="node1" title="Represents MINIMAX." alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node2" href="$classPlayer.html" title="Abstract class for player." alt="" coords="13,5,76,32"/>
+</map>

@@ -32,11 +32,11 @@
 *.app
 
 # Makefile
-/chess
-/chess.zip
-/tmp/
-/build/
-/doc/
+/chess/chess
+/chess/chess.zip
+/chess/tmp/
+/chess/build/
+/chess/doc/
 .*.swp
 
 # Prerequisites

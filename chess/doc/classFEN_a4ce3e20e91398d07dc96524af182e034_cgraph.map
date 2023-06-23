@@ -1,4 +1,0 @@
-<map id="FEN::fill_pieces" name="FEN::fill_pieces">
-<area shape="rect" id="node1" title="Fills chess pieces into board." alt="" coords="5,13,127,39"/>
-<area shape="rect" id="node2" href="$classFEN.html#addf59b1321695a3fe9c8588df468954a" title="Place pieces on chess board." alt="" coords="175,5,331,47"/>
-</map>

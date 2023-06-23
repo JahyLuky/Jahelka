@@ -1,7 +1,0 @@
-<map id="Player" name="Player">
-<area shape="rect" id="node1" title="Abstract class for player." alt="" coords="204,5,267,32"/>
-<area shape="rect" id="node2" href="$classCustom__AI.html" title="Represents Custom AI." alt="" coords="5,80,97,107"/>
-<area shape="rect" id="node3" href="$classCustom__AI2.html" title="Represents Custom AI2." alt="" coords="121,80,221,107"/>
-<area shape="rect" id="node4" href="$classHumanPlayer.html" title="Represents human player." alt="" coords="245,80,356,107"/>
-<area shape="rect" id="node5" href="$classMinimax.html" title="Represents MINIMAX." alt="" coords="380,80,459,107"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Bishop::possible_moves" name="Bishop::possible_moves">
-<area shape="rect" id="node1" title="Find all possible move based on piece type." alt="" coords="5,56,184,83"/>
-<area shape="rect" id="node2" href="$classPiece.html#a19446ccc1dce47aa1c77733242657f25" title="Adds move to possible moves." alt="" coords="243,5,377,32"/>
-<area shape="rect" id="node3" href="$classPiece.html#a6dcc7df628eb1f8317caaa4970835517" title=" " alt="" coords="237,56,383,83"/>
-<area shape="rect" id="node4" href="$classPiece.html#a0b8eee25ebeb85146ffc724a9998613c" title="Validates Position." alt="" coords="232,107,388,133"/>
-</map>

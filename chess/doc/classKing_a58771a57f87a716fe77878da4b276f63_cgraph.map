@@ -1,0 +1,5 @@
+<map id="King::possible_moves" name="King::possible_moves">
+<area shape="rect" id="node1" title="Find all possible move based on piece type." alt="" coords="5,31,169,57"/>
+<area shape="rect" id="node2" href="$classPiece.html#a19446ccc1dce47aa1c77733242657f25" title="Adds move to possible moves." alt="" coords="223,5,357,32"/>
+<area shape="rect" id="node3" href="$classPiece.html#a6dcc7df628eb1f8317caaa4970835517" title=" " alt="" coords="217,56,363,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HumanPlayer::get_move" name="HumanPlayer::get_move">
+<area shape="rect" id="node1" title="Gets player&#39;s move." alt="" coords="5,35,188,61"/>
+<area shape="rect" id="node2" href="$classInput__handler.html#a7752e2dfcba0db40b9bca5398c3d0d43" title="Extract input." alt="" coords="236,27,401,69"/>
+<area shape="rect" id="node3" href="$classInput__handler.html#aeee21ed8a9cdd37b4f39c530e7d2ca15" title="Checks if char is &lt;0, 8&gt;" alt="" coords="455,5,638,32"/>
+<area shape="rect" id="node4" href="$classInput__handler.html#ae6cc6114be79e000f8a6f7156198e0f4" title="Converts char to int." alt="" coords="449,57,644,98"/>
+</map>

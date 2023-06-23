@@ -1,0 +1,4 @@
+<map id="Tutorial::print_menu" name="Tutorial::print_menu">
+<area shape="rect" id="node1" title="Prints menu." alt="" coords="207,5,359,32"/>
+<area shape="rect" id="node2" href="$classTutorial.html#a42acfd364d5d606318eda4b733c973da" title="Runs tutorial." alt="" coords="5,5,159,32"/>
+</map>

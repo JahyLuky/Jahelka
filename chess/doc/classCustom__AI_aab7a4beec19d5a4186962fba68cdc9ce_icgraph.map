@@ -1,0 +1,5 @@
+<map id="Custom_AI::piece_priority" name="Custom_AI::piece_priority">
+<area shape="rect" id="node1" title=" " alt="" coords="421,13,611,39"/>
+<area shape="rect" id="node2" href="$classCustom__AI.html#a6d5240fd3f5919086dc0bb74aa02329a" title="Counts all moves for all pieces." alt="" coords="219,5,373,47"/>
+<area shape="rect" id="node3" href="$classCustom__AI.html#a29f2c8e38303a9c721307e87d3f385ff" title="Gets player&#39;s move." alt="" coords="5,13,171,39"/>
+</map>

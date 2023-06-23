@@ -1,0 +1,52 @@
+<map id="Menu::run" name="Menu::run">
+<area shape="rect" id="node1" title="Runs menu." alt="" coords="5,470,92,497"/>
+<area shape="rect" id="node2" href="$classMenu.html#ac90e451d94eb82769cf58eea174667be" title="Load game." alt="" coords="151,339,289,366"/>
+<area shape="rect" id="node47" href="$classMenu.html#a68710aa5133ced607246c679ec2d2bb4" title="Prints menu." alt="" coords="150,445,290,471"/>
+<area shape="rect" id="node48" href="$classMenu.html#a196d4b882280b81c81409beb8a1a6780" title="Starts game with AI." alt="" coords="140,546,300,573"/>
+<area shape="rect" id="node50" href="$classMenu.html#a4e25526f20b92932d0adf9a489356dac" title="Starts game with 2 human players." alt="" coords="150,495,290,522"/>
+<area shape="rect" id="node3" href="$classFile__manager.html#a700ed2e80892dd11ec00b150b991db71" title="Checks if file name ends with .txt." alt="" coords="860,224,1009,265"/>
+<area shape="rect" id="node4" href="$classPlayer.html#a962ed5b79d46a442c2a933bfde0f9ce1" title="Fill pieces on chess board." alt="" coords="369,546,505,573"/>
+<area shape="rect" id="node5" href="$classApplication.html#aa0cd4150071d630bd7b1f067878f00cd" title="Starts and handles game." alt="" coords="367,495,507,522"/>
+<area shape="rect" id="node35" href="$classFile__manager.html#a5492c26ed8d51b69935173acf8688e80" title="List all files in directory." alt="" coords="865,289,1004,331"/>
+<area shape="rect" id="node40" href="$classFile__manager.html#ade44f79bfec1810354a04dc1829aa2a3" title="Opens file." alt="" coords="348,153,525,179"/>
+<area shape="rect" id="node6" href="$classApplication.html#a50559888cd4196c7cda01e0a432d609f" title="Changes turn of game." alt="" coords="606,553,757,595"/>
+<area shape="rect" id="node25" href="$classGameRules.html#a8d006d25138133af6fa938c758b2d12f" title="Checks if the dead position applies." alt="" coords="583,771,779,798"/>
+<area shape="rect" id="node26" href="$classPlayer.html#a4d6bbea149ca89248c006c2a0ca140b6" title="Delete piece from pieces_pos_." alt="" coords="604,822,759,849"/>
+<area shape="rect" id="node27" href="$classGameRules.html#aa6f8bc3fd2c7b8fa5dba8dfd241d7740" title="Checks if the half&#45;move rules applies." alt="" coords="591,386,772,413"/>
+<area shape="rect" id="node28" href="$classBoard.html#aa96e4fef113d4a359baf359264c0cf3f" title="Prints chess board." alt="" coords="610,437,753,463"/>
+<area shape="rect" id="node29" href="$classApplication.html#aea645938276f66ddf06cbb04d6169502" title="Prints result of game (checkmate, tie, pat, game not finished)" alt="" coords="615,488,748,529"/>
+<area shape="rect" id="node30" href="$classFile__manager.html#a0b0b101cb1941cba0e51a2c6dea0919b" title="Saves file." alt="" coords="593,335,769,362"/>
+<area shape="rect" id="node36" href="$classGameRules.html#a515085ec1bb0e6ea5c2d12664ec7fc10" title="Checks if the stalemate rule applies." alt="" coords="849,675,1020,702"/>
+<area shape="rect" id="node38" href="$classGameRules.html#acbd44f6245c7a7fb0ddf2a7b0fffc923" title="Checks if the threefold repetition rule applies." alt="" coords="599,670,763,697"/>
+<area shape="rect" id="node39" href="$classGameRules.html#a07b29e4691299df2cfe680af7a59262b" title=" " alt="" coords="573,721,789,747"/>
+<area shape="rect" id="node7" href="$classApplication.html#a162a3f466352b474a10516c7f0b0ae9a" title=" " alt="" coords="847,565,1022,591"/>
+<area shape="rect" id="node8" href="$classRules.html#abd9b013ebba58f9757336a20b2c6bf8e" title="Checks if king is in check." alt="" coords="1315,657,1433,683"/>
+<area shape="rect" id="node12" href="$classRules.html#a4ec21c1bd51c73135ed26eafa0da58d3" title="Checks if king is in checkmate." alt="" coords="1089,514,1227,541"/>
+<area shape="rect" id="node13" href="$classMove.html#a3765dcce8a7c18e0c2f7ce42c98fa2ba" title="Makes move with piece." alt="" coords="1301,413,1447,439"/>
+<area shape="rect" id="node19" href="$classMove.html#afbed08d3294e3c7913dd27c3d6afd283" title="Undo move." alt="" coords="1303,514,1445,541"/>
+<area shape="rect" id="node20" href="$classValidate.html#afe077c5b0107ffc1c42670e233257b9c" title="Validates move." alt="" coords="1284,758,1464,785"/>
+<area shape="rect" id="node23" href="$classPlayer.html#afca2a1d6d42d2f3a04abb9ab5bc3d323" title="Gets player&#39;s move." alt="" coords="1090,565,1226,591"/>
+<area shape="rect" id="node24" href="$classApplication.html#afef57a39fdd32b4c10464d8a9d979816" title="Prints who plays next." alt="" coords="1091,616,1225,657"/>
+<area shape="rect" id="node9" href="$classValidate.html#a3e4b7f61bff7ee9d7d839ead34d2d61f" title="Checks if square is empty." alt="" coords="1789,733,1931,759"/>
+<area shape="rect" id="node10" href="$classValidate.html#ab5ba0f592c1cd28a57deab9ef608f2df" title="Checks if piece is same color as player." alt="" coords="1772,643,1948,670"/>
+<area shape="rect" id="node11" href="$classValidate.html#a50364e1735875d1d74e7eb251b3fd7e5" title="Validates position." alt="" coords="1531,657,1705,683"/>
+<area shape="rect" id="node14" href="$classPlayer.html#a42e54e616455af5d9d4b6dea514ba7a0" title="Checks player&#39;s pawn promotion." alt="" coords="1535,433,1701,459"/>
+<area shape="rect" id="node15" href="$classMove.html#a5472b83ec6bcde0fd8c16c4508896ccd" title="Handles casting." alt="" coords="1534,483,1702,510"/>
+<area shape="rect" id="node16" href="$classMove.html#a5a18864c15112c49e5a93dbee3f83d1c" title="Moves piece from start to end." alt="" coords="1787,433,1933,459"/>
+<area shape="rect" id="node17" href="$classMove.html#a9a242db5d52827dd11f81a6aa46e339e" title="Handles pawn promotion." alt="" coords="1551,331,1685,358"/>
+<area shape="rect" id="node18" href="$classPlayer.html#a620bf4cb1907eafdbcd9252a750ffa8f" title="Update piece&#39;s position on chess board." alt="" coords="1777,306,1943,333"/>
+<area shape="rect" id="node21" href="$classValidate.html#ac11fdbf661a340f903a8a8b581710c34" title="Finds all possible moves for piece." alt="" coords="1512,758,1724,785"/>
+<area shape="rect" id="node22" href="$classValidate.html#a6c88b44fd5d40b6aba0812e2d23d8f04" title="Checks if castling is valid." alt="" coords="1531,809,1705,835"/>
+<area shape="rect" id="node31" href="$classFEN.html#a42da90e2b44ecb011e7ec0d86015dffd" title="Gets FEN notation." alt="" coords="879,355,990,382"/>
+<area shape="rect" id="node32" href="$classInput__handler.html#a7987d8ac8708c84676dd60936341bd8c" title="Converts int to char." alt="" coords="1090,347,1226,388"/>
+<area shape="rect" id="node33" href="$classFEN.html#aa59029cbcd63802d3dddd5523f3702e9" title="Save piece." alt="" coords="1090,295,1226,322"/>
+<area shape="rect" id="node34" href="$classFEN.html#a0bfe254b9c0c3e163aecf70582e47761" title="Gets types of piece." alt="" coords="1284,295,1464,322"/>
+<area shape="rect" id="node37" href="$classRules.html#ac508b22d87dddf5225cf154785618413" title="Check if stalemate occurs." alt="" coords="1092,733,1224,759"/>
+<area shape="rect" id="node41" href="$classFEN.html#a39f6253f19ae04797561c9fea3342cb7" title="Reads FEN notation." alt="" coords="622,122,741,149"/>
+<area shape="rect" id="node42" href="$classInput__handler.html#aeee21ed8a9cdd37b4f39c530e7d2ca15" title="Checks if char is &lt;0, 8&gt;" alt="" coords="843,173,1026,199"/>
+<area shape="rect" id="node43" href="$classInput__handler.html#ae6cc6114be79e000f8a6f7156198e0f4" title="Converts char to int." alt="" coords="837,5,1032,47"/>
+<area shape="rect" id="node44" href="$classFEN.html#ad13a4a36c9bebfaf47e275bfe1ee9084" title="Corrects FEN pieces." alt="" coords="843,71,1026,98"/>
+<area shape="rect" id="node45" href="$classFEN.html#a4ce3e20e91398d07dc96524af182e034" title="Fills chess pieces into board." alt="" coords="874,122,995,149"/>
+<area shape="rect" id="node46" href="$classFEN.html#addf59b1321695a3fe9c8588df468954a" title="Place pieces on chess board." alt="" coords="1080,115,1236,156"/>
+<area shape="rect" id="node49" href="$classBoard.html#aba53aef1597d5a8ed4c8895e86267e26" title=" " alt="" coords="370,597,503,623"/>
+</map>

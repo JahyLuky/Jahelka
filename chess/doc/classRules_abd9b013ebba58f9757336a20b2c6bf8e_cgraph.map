@@ -1,0 +1,6 @@
+<map id="Rules::checked" name="Rules::checked">
+<area shape="rect" id="node1" title="Checks if king is in check." alt="" coords="5,56,124,83"/>
+<area shape="rect" id="node2" href="$classValidate.html#a3e4b7f61bff7ee9d7d839ead34d2d61f" title="Checks if square is empty." alt="" coords="189,5,331,32"/>
+<area shape="rect" id="node3" href="$classValidate.html#ab5ba0f592c1cd28a57deab9ef608f2df" title="Checks if piece is same color as player." alt="" coords="172,56,348,83"/>
+<area shape="rect" id="node4" href="$classValidate.html#a50364e1735875d1d74e7eb251b3fd7e5" title="Validates position." alt="" coords="173,107,347,133"/>
+</map>

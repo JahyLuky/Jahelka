@@ -1,0 +1,7 @@
+<map id="Board::init_board" name="Board::init_board">
+<area shape="rect" id="node1" title=" " alt="" coords="451,31,584,57"/>
+<area shape="rect" id="node2" href="$classMenu.html#a196d4b882280b81c81409beb8a1a6780" title="Starts game with AI." alt="" coords="243,5,403,32"/>
+<area shape="rect" id="node5" href="$classMenu.html#a4e25526f20b92932d0adf9a489356dac" title="Starts game with 2 human players." alt="" coords="253,56,393,83"/>
+<area shape="rect" id="node3" href="$classMenu.html#a35656cd130e24d69383a5c9d0a73a38c" title="Runs menu." alt="" coords="108,31,195,57"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,60,57"/>
+</map>

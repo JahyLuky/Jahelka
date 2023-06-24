@@ -1,0 +1,11 @@
+<map id="Player::delete_piece" name="Player::delete_piece">
+<area shape="rect" id="node1" title="Delete piece from pieces_pos_." alt="" coords="708,81,863,108"/>
+<area shape="rect" id="node2" href="$classApplication.html#aa0cd4150071d630bd7b1f067878f00cd" title="Starts and handles game." alt="" coords="520,81,660,108"/>
+<area shape="rect" id="node3" href="$classMenu.html#ac90e451d94eb82769cf58eea174667be" title="Load game." alt="" coords="321,5,460,32"/>
+<area shape="rect" id="node6" href="$classMenu.html#a196d4b882280b81c81409beb8a1a6780" title="Starts game with AI." alt="" coords="311,56,471,83"/>
+<area shape="rect" id="node7" href="$classMenu.html#a4e25526f20b92932d0adf9a489356dac" title="Starts game with 2 human players." alt="" coords="321,107,461,133"/>
+<area shape="rect" id="node8" href="$classTutorial.html#ad4a5c074281c25791323e984dba390f2" title="Start tutorial." alt="" coords="309,157,472,184"/>
+<area shape="rect" id="node4" href="$classMenu.html#a35656cd130e24d69383a5c9d0a73a38c" title="Runs menu." alt="" coords="141,56,228,83"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node9" href="$classTutorial.html#a42acfd364d5d606318eda4b733c973da" title="Runs tutorial." alt="" coords="108,157,261,184"/>
+</map>

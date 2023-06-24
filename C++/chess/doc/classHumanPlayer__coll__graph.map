@@ -1,0 +1,5 @@
+<map id="HumanPlayer" name="HumanPlayer">
+<area shape="rect" id="node1" title="Represents human player." alt="" coords="5,200,116,227"/>
+<area shape="rect" id="node2" href="$classPlayer.html" title="Abstract class for player." alt="" coords="29,124,92,151"/>
+<area shape="rect" id="node3" href="$structPosition.html" title=" " alt="" coords="23,5,98,32"/>
+</map>

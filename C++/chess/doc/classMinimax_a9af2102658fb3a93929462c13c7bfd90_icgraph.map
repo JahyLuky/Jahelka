@@ -1,0 +1,6 @@
+<map id="Minimax::get_piece_value" name="Minimax::get_piece_value">
+<area shape="rect" id="node1" title="Gets piece&#39;s value." alt="" coords="704,5,855,47"/>
+<area shape="rect" id="node2" href="$classMinimax.html#a5778877ae8f440f49730b743e1b4ce2a" title="Evaluates chess board." alt="" coords="468,13,656,39"/>
+<area shape="rect" id="node3" href="$classMinimax.html#ad75b36d8718f9ad30bb921a483413b1f" title="Minimax algorithm." alt="" coords="205,13,420,39"/>
+<area shape="rect" id="node4" href="$classMinimax.html#af45948f65043449d3c4cfb6c4bbf8251" title="Gets player&#39;s move." alt="" coords="5,13,157,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Piece::get_position" name="Piece::get_position">
+<area shape="rect" id="node1" title=" " alt="" coords="232,132,377,159"/>
+<area shape="rect" id="node2" href="$classBishop.html#a3832d55df1aa1fdc58d25d6617f0f608" title="Find all possible move based on piece type." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node3" href="$classKing.html#a58771a57f87a716fe77878da4b276f63" title="Find all possible move based on piece type." alt="" coords="13,56,177,83"/>
+<area shape="rect" id="node4" href="$classKnight.html#a687e430ed10b82122b10d39362b344f2" title="Find all possible move based on piece type." alt="" coords="6,107,183,133"/>
+<area shape="rect" id="node5" href="$classPawn.html#a4853d78045c8475fa8d4590f5423d0c4" title="Find all possible move based on piece type." alt="" coords="10,157,179,184"/>
+<area shape="rect" id="node6" href="$classQueen.html#a16ba26adbfa8cdc014006528ff4ae43d" title="Find all possible move based on piece type." alt="" coords="6,208,183,235"/>
+<area shape="rect" id="node7" href="$classRook.html#abde3bedc33d9da3c50521bf70fe26625" title="Find all possible move based on piece type." alt="" coords="11,259,179,285"/>
+</map>

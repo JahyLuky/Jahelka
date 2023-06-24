@@ -1,0 +1,8 @@
+<map id="Validate::validate_move" name="Validate::validate_move">
+<area shape="rect" id="node1" title="Validates move." alt="" coords="5,81,185,108"/>
+<area shape="rect" id="node2" href="$classValidate.html#ac11fdbf661a340f903a8a8b581710c34" title="Finds all possible moves for piece." alt="" coords="233,56,445,83"/>
+<area shape="rect" id="node6" href="$classValidate.html#a6c88b44fd5d40b6aba0812e2d23d8f04" title="Checks if castling is valid." alt="" coords="253,107,426,133"/>
+<area shape="rect" id="node3" href="$classValidate.html#aa7766a323b9443c69e62a05d04f0b217" title="Finds if move is legit." alt="" coords="506,5,657,32"/>
+<area shape="rect" id="node4" href="$classValidate.html#a3e4b7f61bff7ee9d7d839ead34d2d61f" title="Checks if square is empty." alt="" coords="510,56,653,83"/>
+<area shape="rect" id="node5" href="$classValidate.html#ab5ba0f592c1cd28a57deab9ef608f2df" title="Checks if piece is same color as player." alt="" coords="493,107,669,133"/>
+</map>

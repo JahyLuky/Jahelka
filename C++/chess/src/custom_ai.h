@@ -4,6 +4,7 @@
 
 /**
  * @brief Represents Custom AI
+ * @brief This AI prefers queen -> rook -> bishop/knight moves
  */
 class Custom_AI : public Player {
 public:

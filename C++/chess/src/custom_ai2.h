@@ -4,6 +4,7 @@
 
 /**
  * @brief Represents Custom AI2
+ * @brief This AI prefers moves in the middle of chess board
  */
 class Custom_AI2 : public Player {
 public:
